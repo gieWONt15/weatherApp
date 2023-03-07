@@ -10,8 +10,8 @@ This app was built using:
 HTML
 Bootstrap v5.3.0-alpha1
 JavaScript
-#API
+# API
 This app uses the OpenWeatherMap API to retrieve weather information based on the user's location. The API requires an API key, which is stored in the apiKey variable in the index.html file.
 
-#Authors
+# Authors
 This app was created by Paweł Gierlotka.
